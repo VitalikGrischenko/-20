@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+}
+ ul{
+    list-style: none;
+ }
+.Raleway{
+    font-family: 'Raleway';
+    font-weight: 700;
+}
+.Roboto{
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+.Roboto900{
+    font-family: 'Roboto';
+    font-weight: 900;
+}
+.Roboto700{
+    font-family: 'Roboto';
+font-weight: 700;
+}
+.Roboto400{
+    font-family: 'Roboto';
+font-weight: 400;
+}
