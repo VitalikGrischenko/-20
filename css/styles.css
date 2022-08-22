@@ -7,10 +7,12 @@ a{
 .Raleway{
     font-family: 'Raleway';
     font-weight: 700;
+    color: #2196F3;
 }
 .Roboto{
     font-family: 'Roboto';
     font-weight: 500;
+    color: #212121;
 }
 .Roboto900{
     font-family: 'Roboto';
@@ -23,4 +25,9 @@ font-weight: 700;
 .Roboto400{
     font-family: 'Roboto';
 font-weight: 400;
+}
+.RobotoO{
+    font-family: 'Roboto';
+    font-weight: 500;
+    color: #2196F3;
 }
